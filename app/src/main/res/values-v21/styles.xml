@@ -1,0 +1,169 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <!-- ************************************************************************************ -->
+
+    <!-- TextViews Styles-->
+
+    <style name="text_view_10_regular">
+        <item name="android:textSize">@dimen/font_10</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="text_view_11_medium">
+        <item name="android:textSize">@dimen/font_11</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="text_view_12_medium">
+        <item name="android:textSize">@dimen/font_12</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="text_view_12_regular">
+        <item name="android:textSize">@dimen/font_12</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="text_view_13_medium">
+        <item name="android:textSize">@dimen/font_13</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="text_view_13_regular">
+        <item name="android:textSize">@dimen/font_13</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="text_view_13_light">
+        <item name="android:textSize">@dimen/font_13</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="text_view_14_medium">
+        <item name="android:textSize">@dimen/font_14</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="text_view_14_regular">
+        <item name="android:textSize">@dimen/font_14</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="text_view_15_medium">
+        <item name="android:textSize">@dimen/font_15</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="text_view_15_regular">
+        <item name="android:textSize">@dimen/font_15</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="text_view_16_medium">
+        <item name="android:textSize">@dimen/font_16</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="text_view_16_regular">
+        <item name="android:textSize">@dimen/font_16</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="text_view_17_medium">
+        <item name="android:textSize">@dimen/font_17</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="text_view_17_regular">
+        <item name="android:textSize">@dimen/font_17</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="text_view_18_medium">
+        <item name="android:textSize">@dimen/font_18</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="text_view_18_regular">
+        <item name="android:textSize">@dimen/font_18</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="text_view_20_regular">
+        <item name="android:textSize">@dimen/font_20</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="text_view_20_medium">
+        <item name="android:textSize">@dimen/font_20</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="text_view_22_regular">
+        <item name="android:textSize">@dimen/font_22</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="text_view_22_medium">
+        <item name="android:textSize">@dimen/font_22</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="text_view_24_regular">
+        <item name="android:textSize">@dimen/font_24</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="text_view_24_medium">
+        <item name="android:textSize">@dimen/font_24</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="text_view_26_regular">
+        <item name="android:textSize">@dimen/font_26</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="text_view_26_medium">
+        <item name="android:textSize">@dimen/font_26</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="text_view_28_regular">
+        <item name="android:textSize">@dimen/font_28</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="text_view_28_medium">
+        <item name="android:textSize">@dimen/font_28</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="text_view_30_regular">
+        <item name="android:textSize">@dimen/font_30</item>
+        <item name="android:fontFamily">sans-serif-regular</item>
+    </style>
+
+    <style name="text_view_30_medium">
+        <item name="android:textSize">@dimen/font_30</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <!-- ************************************************************************************ -->
+
+</resources>
