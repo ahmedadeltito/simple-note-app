@@ -33,6 +33,7 @@ ext {
     targetSdkVersion = 26
     supportLibraryVersion = '27.1.0'
     constraintLayoutVersion = '1.0.2'
+    androidArcComponents = '1.1.1'
 
     // Retrofit and OkHttp
     retrofitVersion = '2.3.0'

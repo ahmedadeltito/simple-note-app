@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NoteApp</string>
+    <string name="launching_simple_note_app">Welcome To Simple Note App</string>
+    <string name="no_notes_available">No Notes Available</string>
 </resources>
